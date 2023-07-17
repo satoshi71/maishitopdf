@@ -1,3 +1,3 @@
 # Googleドライブ上の名刺画像をOCRで文字起こししてPDFにまとめるプログラム
 
-[![サービス紹介動画](https://www.youtube.com/watch?v=Lquo5fpPgh8)
+[![alt設定](http://img.youtube.com/vi/Lquo5fpPgh8/0.jpg)](https://www.youtube.com/watch?v=Lquo5fpPgh8)
